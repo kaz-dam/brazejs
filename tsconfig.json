@@ -9,7 +9,6 @@
     "allowSyntheticDefaultImports": true,
     "resolveJsonModule": true,
     "strict": true,
-    "suppressImplicitAnyIndexErrors": true
   },
   "all": true,
   "exclude": [ "node_modules", "dist" ]
